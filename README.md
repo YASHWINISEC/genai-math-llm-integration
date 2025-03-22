@@ -5,7 +5,7 @@ To design and implement a Python function for calculating the volume of a cylind
 
 ### PROBLEM STATEMENT:
 The objective of this program is to use OpenAI's GPT-3.5-turbo model to calculate the volume of a cylinder when given its radius and height. The program leverages OpenAI's function calling capability to execute a predefined function, calculate_cylinder_volume, which computes the volume based on the formula:
-Volume = 𝜋×radius*2×height
+                                                            **Volume = 𝜋×radius*2×height**
 The chatbot interacts with the user by receiving a query, determining the required function call, and generating a response with the computed volume.
 
 ### DESIGN STEPS:
